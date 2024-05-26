@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sailesh3000" alt="sailesh3000" /></a> </p>
 
-- 🌱 I’m currently learning **React,Solidity**
+- 🌱 I’m currently learning **React,WEB3**
 
 - 📝 I regularly write leetcode problem approaches [https://twitter.com/SAILESH3000](https://twitter.com/SAILESH3000)
 
