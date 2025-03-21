@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sailesh3000" alt="sailesh3000" /></a> </p>
 
-- 🌱 I’m currently learning **React,WEB3**
-
-- 📝 I regularly write leetcode problem approaches [https://twitter.com/SAILESH3000](https://twitter.com/SAILESH3000)
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1A1yoqkVMn9hiMA_m0GwSWirRqMmAIHRd](https://drive.google.com/drive/folders/1A1yoqkVMn9hiMA_m0GwSWirRqMmAIHRd)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@sailesh30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sailesh30" height="30" width="40" /></a>
