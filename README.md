@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sailesh</h1>
-<h3 align="center">Web Developer | Machine Learning Engineer | Cybersecurity Enthusiast</h3>
+<h3 align="center">Web Developer | Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sailesh3000&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh3000" />
@@ -17,10 +17,10 @@
 
 <!-- LeetCode Badges -->
 <p align="center">
-  <a href="https://leetcode.com/sailesh3000/" target="_blank">
+  <a href="https://leetcode.com/chandrasailesh30/" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsailesh3000&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Problems">
   </a>
-  <a href="https://leetcode.com/sailesh3000/" target="_blank">
+  <a href="https://leetcode.com/chandrasailesh30/" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%234c8eda&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsailesh3000&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking">
   </a>
 </p>
