@@ -16,14 +16,16 @@
 </p>
 
 <!-- LeetCode Badges -->
+<!-- LeetCode Badges -->
 <p align="center">
   <a href="https://leetcode.com/u/chandrasailesh30/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsailesh3000&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Problems">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchandrasailesh30&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Problems">
   </a>
   <a href="https://leetcode.com/u/chandrasailesh30/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%234c8eda&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsailesh3000&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%234c8eda&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchandrasailesh30&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking">
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
