@@ -64,5 +64,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sailesh3000&show_icons=true&locale=en&theme=radical" alt="sailesh3000" />
 </div>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sailesh3000" alt="GitHub Streak" /></a>
